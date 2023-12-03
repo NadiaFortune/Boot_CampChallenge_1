@@ -18,16 +18,19 @@ The following image showed the original web application's appearance and functio
 
 The deployed page can be found here: 
 
-### **Installation**
+## **Installation**
 
 N/A
 
-#### **Usage**
+## **Usage**
 
-To copmpare the newly-deployed code with the original, the screenshots below show the original code:![Original Code Screennshot1](Assets/Screenshot-2023-12-03-181931.png)
+To copmpare the newly-deployed code with the original, the screenshots below show the original code:
+![Original Code Screennshot1](Assets/Screenshot-2023-12-03-181931.png)
+
+and
 ![Original Code Screenshot2](Assets\Screenshot-2023-12-03-182006.png)
 
-##### **Credits**
+## **Credits**
 
 The following resources were used for the required code changes in the index.html and style.css files:
 
@@ -39,7 +42,7 @@ Guidance was received from tutor, Beniceio Lopez during a 50-minute tutoring ses
 
 I also worked in collaboration with several other students to start the refactoring during the initial class challenge session.
 
-###### **Licence**
+## **Licence**
 
 Please refer to the LICENCE in the repo.
 
