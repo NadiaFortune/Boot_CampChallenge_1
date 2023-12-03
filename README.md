@@ -28,7 +28,7 @@ To copmpare the newly-deployed code with the original, the screenshots below sho
 ![Original Code Screennshot1](Assets/Screenshot-2023-12-03-181931.png)
 
 and
-![Original Code Screenshot2](Assets\Screenshot-2023-12-03-182006.png)
+![Original Code Screenshot2](Assets/Screenshot-2023-12-03-182006.png)
 
 ## **Credits**
 
