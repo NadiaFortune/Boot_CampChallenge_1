@@ -27,12 +27,12 @@ If your README is very long, add a table of contents to make it easy for users t
 * [License](#license)
 
 
-## Installation
+## **Installation**
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 
-## Usage 
+## **Usage** 
 
 Provide instructions and examples for use. Include screenshots as needed. 
 
@@ -43,9 +43,12 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ```
 
 
-## Credits
+## **Credits**
 
-List your collaborators, if any, with links to their GitHub profiles.
+The following resoucres were used for the required code changes:
+
+https://www.w3schools.com/html/html5_semantic_elements.asp
+
 
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
