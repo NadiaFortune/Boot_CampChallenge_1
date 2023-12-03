@@ -16,7 +16,7 @@ The following image showed the original web application's appearance and functio
 
 ![](Assets/01-html-css-git-challenge-demo.png)
 
-The deployed page can be found here: 
+The deployed page can be found here: https://nadiafortune.github.io/Boot_CampChallenge_1/
 
 ## **Installation**
 
